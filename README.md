@@ -1,4 +1,4 @@
-# Studi Kasus 3 - Program Pengelompokan dan Penghapusan Nilai
+# Study_Kasus_3_Lithalia Geminifer Addawiyah
 
 Program Python ini dibuat untuk mengolah data nilai mahasiswa berdasarkan kriteria batas lulus.
 
